@@ -6,12 +6,12 @@ import { getStorage } from "firebase/storage";
 // TODO: Replace the following with your app's Firebase project configuration
 // See: https://support.google.com/firebase/answer/7015592
 const firebaseConfig = {
-  apiKey: "AIzaSyB8xl1Czb7P3j89yp6LP9lChBtT2wxBEY4",
-  authDomain: "vue-chat-88e40.firebaseapp.com",
-  projectId: "vue-chat-88e40",
-  storageBucket: "vue-chat-88e40.appspot.com",
-  messagingSenderId: "940976682409",
-  appId: "1:940976682409:web:2491545a04ae24c70fc0b8",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
